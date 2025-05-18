@@ -1,4 +1,5 @@
 ### FineTuning Qwen2.5-7B model on cybersecurity data
+If github does not render the colab notebooks or throws an error, please download and view on your code editor.
 
 ### High Level Diagram
 ![CyberQwen architecture diagram](./Data-architecture-CyberQwen.jpg)
