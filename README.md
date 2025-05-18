@@ -1,7 +1,7 @@
 ### FineTuning Qwen2.5-7B model on cybersecurity data
 
 ### High Level Diagram
-![Alt Text](https://drive.google.com/file/d/1SmrEHoqCb0z66awarAuEQCuj3H-75csO/view?usp=sharing)
+![CyberQwen architecture diagram](https://drive.google.com/file/d/1SmrEHoqCb0z66awarAuEQCuj3H-75csO/view?usp=sharing)
 
 I fine-tuned and deployed an  LLM using FastAPI and ngrok within google colab. 
 This process consists of 4 notebooks following the data collection pipeline and typical FTI pipeline architecture for any ML project.
